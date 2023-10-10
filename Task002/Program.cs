@@ -9,16 +9,19 @@ System.Console.WriteLine("Введите любое целое число");
 int N = Convert.ToInt32(Console.ReadLine());
 
 while (N > 1000)
+
 {
     N = N / 10;
 }
 
 if (N < 100)
+
 {
     System.Console.WriteLine("Третьей цифры нет");
 }
 
 else
+
 {
     System.Console.WriteLine(N%10);
 }
