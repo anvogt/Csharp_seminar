@@ -18,6 +18,7 @@ if (N < 100)
     System.Console.WriteLine("Третьей цифры нет");
 }
 
-else {
+else
+{
     System.Console.WriteLine(N%10);
 }
