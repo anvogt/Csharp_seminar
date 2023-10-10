@@ -7,16 +7,19 @@ System.Console.WriteLine("Введите цифру дня недели");
 int N = Convert.ToInt32(Console.ReadLine());
 
 if (0 < N && N < 6)
+
 {
     System.Console.WriteLine("Это не выходной день :(");
 }
 
 else if (5 < N && N < 8)
+
 {
     System.Console.WriteLine("Это выходной день!");
 }
 
 else
+
 {
     System.Console.WriteLine("Такого дня недели не существует");
 }
