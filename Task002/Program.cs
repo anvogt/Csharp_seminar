@@ -3,8 +3,6 @@
 // 78 -> третьей цифры нет
 // 326791123 -> 6
 
-using System.Linq.Expressions;
-
 System.Console.WriteLine("Введите любое целое число");
 
 int N = Convert.ToInt32(Console.ReadLine());
