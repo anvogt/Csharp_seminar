@@ -21,4 +21,4 @@ if (N < 100)
 
 else {
     System.Console.WriteLine(N%10);
-}
+} 
