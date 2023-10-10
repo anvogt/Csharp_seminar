@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\bin\Debug\net6.0\Task001.exe
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\bin\Debug\net6.0\Task001.deps.json
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\bin\Debug\net6.0\Task001.runtimeconfig.json
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\bin\Debug\net6.0\Task001.dll
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\bin\Debug\net6.0\Task001.pdb
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.dll
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\refint\Task001.dll
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.pdb
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\Task001.genruntimeconfig.cache
+C:\Users\Антон\Desktop\GB\C sharp\Практика\ДЗ по семинарам\ДЗ семинар 2\Task\Task001\obj\Debug\net6.0\ref\Task001.dll
